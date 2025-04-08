@@ -8,3 +8,7 @@ Este projeto simula uma análise de dados com base em registros de solicitaçõe
 - `data/`: contém os dados CSV
 - `notebooks/`: notebook com análises e gráficos
 - `scripts/`: scripts para gerar dados simulados
+- Python
+- Google Colab
+- Pandas
+- Matplotlib
