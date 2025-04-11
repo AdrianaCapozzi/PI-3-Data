@@ -12,3 +12,7 @@ Este projeto simula uma análise de dados com base em registros de solicitaçõe
 - Google Colab
 - Pandas
 - Matplotlib
+pandas
+matplotlib
+seaborn
+faker
